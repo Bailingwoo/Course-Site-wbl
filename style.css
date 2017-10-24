@@ -1,0 +1,84 @@
+{
+    margin:0;
+    padding:0;
+}
+
+
+body{
+    background-attachment: fixed;
+    background-image: url("IMG_9541.JPG");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: White;
+    font-family: prestige elite std, sans-serif;
+    margin: 0 auto;
+    width: 900px;
+    f
+}
+
+
+header{
+     
+}
+
+h1{
+    margin-left: 380px;
+    margin-top: 100px;
+    font-weight: 900;
+    font-size: 40px;
+    text-decoration: line-through;
+}
+
+nav{
+    margin-left: 360px;
+    margin-right:300px;
+    
+    
+}
+
+
+ul{
+    list-style-type: circle;
+    font-size: 25px;
+    background-color: black;
+    opacity: .4;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+    
+    
+}
+
+
+
+li{
+     
+    
+}
+
+
+a{
+    
+}
+
+
+.nav-links{
+     text-decoration: none;
+    color: white;
+}
+
+
+.nav-links:hover{
+    color: darkgray;
+    display:block;
+}
+
+footer {
+    padding-left: 40px;
+    clear: both;
+    min-height: 100px;
+    text-align: center;
+    padding-top: 200px;
+}
